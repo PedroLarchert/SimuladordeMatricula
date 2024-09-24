@@ -1,2 +1,2 @@
 # SimuladordeMatricula
- Script para ajudar alunos da UFBA no planejamento de disciplinas dos semestres
+ Script para ajudar alunos do BSI da UFBA no planejamento de disciplinas dos semestres
