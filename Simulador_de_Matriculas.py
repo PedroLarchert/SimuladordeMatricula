@@ -1,4 +1,4 @@
-# Dicionário de disciplinas (exemplo para um semestre, você pode completar para todos os semestres)
+# Dicionário de disciplinas (exemplo para BSI, você pode completar para seu Curso)
 1
 disciplinas = {
     # 1º Semestre
@@ -130,8 +130,7 @@ def simular_matricula():
         for indice in escolhas_indices:
             materia_escolhida = materias_disponiveis[indice - 1]
             materias_concluidas.append(materia_escolhida)
-            print(f"Disciplina '{
-                  disciplinas[materia_escolhida]['nome']}' adicionada com sucesso.")
+            print(f"Disciplina '{disciplinas[materia_escolhida]['nome']}' adicionada com sucesso.")
 
         semestre_atual += 1
 
